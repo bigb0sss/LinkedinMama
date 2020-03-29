@@ -68,9 +68,9 @@ def banner():
     print("                                                                  [bigb0ss]         ")
     print                                                                               
     print(color.blue + "[*] Linkedin Intelligence" + color.end)
-    print(color.blue + "[*] Original Scrapper by @DisK0nn3ct" + color.end)
-    print(color.blue + "[*] Updated Scrapper by @vysecurity" + color.end)
-    print(color.blue + "[*] This Scrapper by @bigb0ss" + color.end)   
+    print(color.blue + "[*] Original Scraper by @DisK0nn3ct" + color.end)
+    print(color.blue + "[*] Updated Scraper by @vysecurity" + color.end)
+    print(color.blue + "[*] This Scraper by @bigb0ss" + color.end)   
     print
 
 ### Linkedin Login
