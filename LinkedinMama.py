@@ -6,9 +6,9 @@
 # Modified Script - @bigb0ss
 # 
 # Updates:
-#   1) Simplified and cleaned up some outpus of the script 
+#   1) Simplified and cleaned up some script outputs. 
 #   2) Added random delays (0-3) between scraping pages
-#   3) Modified only output to .csv
+#   3) Modified only output file to .csv
 #   4) Auto companyID search seemed to be unrealiable for some companies that have multiple IDs --> Modified to provide exact companyID from Linkedin
 
 #!/usr/bin/python
