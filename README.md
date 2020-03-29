@@ -60,7 +60,7 @@ python LinkedinMama.py
 [+] {first}.{last}
 [+] Found first.last Naming Scheme
 [+] Welcome to Linkedin!
-[+] Login Success as danielle.gibson.smile@gmail.com
+[+] Login Success as <YOUR LINKEDIN USER>
 [+] Auth Cookie: AQED...<REDACTED>...SvJxf
 [+] 145 Results Found
 [*] Fetching 4 Pages
@@ -96,7 +96,7 @@ python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
 [+] {first}.{last}
 [+] Found first.last Naming Scheme
 [+] Welcome to Linkedin!
-[+] Login Success as danielle.gibson.smile@gmail.com
+[+] Login Success as <YOUR LINKEDIN USER>
 [+] Auth Cookie: AQED...<REDACTED>...SvJxf
 [+] 145 Results Found
 [*] Fetching 4 Pages
