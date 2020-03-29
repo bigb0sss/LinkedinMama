@@ -10,10 +10,10 @@ Modified by @bigb0ss<br/>
 <br/>
 
 ## Updates
-   1) Simplified and cleaned up some outpus of the script.<br/>
+   1) Simplified and cleaned up some script outputs.<br/>
    2) Added random delays (0-3) between scraping pages.<br/>
-   3) Modified only output to .csv.<br/>
-   4) Auto companyID search seemed to be unrealiable for some companies that have multiple IDs --> Modified to provide exact companyID from Linkedin. Go to the target company's "See all employees" page and use "facetCurrentCompany=" values at a time.<br/>
+   3) Modified only output file to .csv.<br/>
+   4) Auto companyID search seemed to be unrealiable for some companies that have multiple IDs --> Modified to provide exact companyID from Linkedin. Go to the target company's "See all employees" page and use the "facetCurrentCompany=" values at a time.<br/>
 <br/>
 
 ## Installation
