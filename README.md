@@ -70,7 +70,7 @@ python LinkedinMama.py
 [+] Fetching page 3 with 25 results
 [+] Linkedin Scrapping Completed.
 ```
-<br/>
+
 OR<br/>
 <br/>
 
