@@ -46,7 +46,7 @@ python LinkedinMama.py
 [+] Creating Output File: optiv.csv
 [*] Provide "facetCurrentCompany=" ID: 9291  <-- Providing the companyID   
 [+] Using CompanyID: 9291
-[*] Enter Email Domain (eg. google.com): optiv.com  <-- Providing the email domain
+[*] Enter Email Domain (eg. gmail.com): optiv.com  <-- Providing the email domain
 [*] Naming Scheme for the Company 
     [0] Auto (hunter.io) 
     [1] FirstLast 
