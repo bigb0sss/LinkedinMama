@@ -288,7 +288,7 @@ if __name__ == '__main__':
     
     # Email 
     while True:
-        suffix = args.email if args.email!= None else raw_input("[*] Enter Email Domain (eg. google.com): ")
+        suffix = args.email if args.email!= None else raw_input("[*] Enter Email Domain (eg. gmail.com): ")
         suffix = suffix.lower()
         if "." in suffix:
             break
