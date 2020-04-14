@@ -24,6 +24,27 @@ pip install -r requirements.txt
 <br/>
 
 ## Usage & Example
+```
+$  python LinkedinMama.py -h
+usage: LinkedinMama.py [-h] [-k KEYWORDS] [-c COMPANYID] [-e EMAIL]
+                       [-n NAMING]
+
+[*] Linkedin User Scraper
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -k KEYWORDS, --keywords KEYWORDS
+                        Keywords to search & create output to file
+  -c COMPANYID, --companyid COMPANYID
+                        facetCurrentCompany= parameter value
+  -e EMAIL, --email EMAIL
+                        Company email domain
+  -n NAMING, --naming NAMING
+                        User naming scheme: [0] Auto (hunter.io) [1] FirstLast
+                        [2] FirstMiddleLast [3] FLast [4] FirstL [5]
+                        First.Last [6] Last.First
+```
+
 * Add your Linkedin credentials and [Hunter.io](https://hunter.io/) API keys into LinkedinMama.cfg file.
 * Run the script
 ```
