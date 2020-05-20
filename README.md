@@ -17,14 +17,14 @@ Modified by @bigb0ss<br/>
 <br/>
 
 ## Installation
-```
+```bash
 git clone https://github.com/bigb0sss/LinkedinMama.git
 pip install -r requirements.txt
 ```
 <br/>
 
 ## Usage & Example
-```
+```bash
 $  python LinkedinMama.py -h
 usage: LinkedinMama.py [-h] [-k KEYWORDS] [-c COMPANYID] [-e EMAIL]
                        [-n NAMING]
@@ -47,7 +47,7 @@ optional arguments:
 
 * Add your Linkedin credentials and [Hunter.io](https://hunter.io/) API keys into LinkedinMama.cfg file.
 * Run the script
-```
+```bash
 python LinkedinMama.py
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
@@ -95,7 +95,7 @@ python LinkedinMama.py
 OR<br/>
 
 
-```
+```bash
 python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
