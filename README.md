@@ -95,7 +95,7 @@ python LinkedinMama.py
 OR<br/>
 
 
-```bash
+```python
 python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
