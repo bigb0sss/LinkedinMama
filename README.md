@@ -47,7 +47,7 @@ optional arguments:
 
 * Add your Linkedin credentials and [Hunter.io](https://hunter.io/) API keys into LinkedinMama.cfg file.
 * Run the script
-```bash
+```python
 python LinkedinMama.py
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
