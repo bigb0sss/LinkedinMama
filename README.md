@@ -24,7 +24,7 @@ pip install -r requirements.txt
 <br/>
 
 ## Usage & Example
-```bash
+```python
 $  python LinkedinMama.py -h
 usage: LinkedinMama.py [-h] [-k KEYWORDS] [-c COMPANYID] [-e EMAIL]
                        [-n NAMING]
