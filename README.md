@@ -17,7 +17,7 @@ Modified by @bigb0ss<br/>
 <br/>
 
 ## Installation
-```bash
+```python
 git clone https://github.com/bigb0sss/LinkedinMama.git
 pip install -r requirements.txt
 ```
