@@ -24,7 +24,7 @@ pip install -r requirements.txt
 <br/>
 
 ## Usage & Example
-```python
+```bash
 $  python LinkedinMama.py -h
 usage: LinkedinMama.py [-h] [-k KEYWORDS] [-c COMPANYID] [-e EMAIL]
                        [-n NAMING]
@@ -47,7 +47,7 @@ optional arguments:
 
 * Add your Linkedin credentials and [Hunter.io](https://hunter.io/) API keys into LinkedinMama.cfg file.
 * Run the script
-```python
+```bash
 python LinkedinMama.py
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
@@ -95,7 +95,7 @@ python LinkedinMama.py
 OR<br/>
 
 
-```python
+```bash
 python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
