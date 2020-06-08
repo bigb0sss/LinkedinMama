@@ -63,11 +63,11 @@ python LinkedinMama.py
 [*] Updated Scraper by @vysecurity
 [*] This Scraper by @bigb0ss
 
-[*] Enter Linkedin Search Keyword (eg. "google"): optiv  <-- Providing the keyword to search
-[+] Creating Output File: optiv.csv
-[*] Provide "facetCurrentCompany=" ID: 9291  <-- Providing the companyID   
-[+] Using CompanyID: 9291
-[*] Enter Email Domain (eg. gmail.com): optiv.com  <-- Providing the email domain
+[*] Enter Linkedin Search Keyword (eg. "google"): tesla  <-- Providing the keyword to search
+[+] Creating Output File: tesla.csv
+[*] Provide "facetCurrentCompany=" ID: 1234  <-- Providing the companyID   
+[+] Using CompanyID: 1234
+[*] Enter Email Domain (eg. gmail.com): tesla.com  <-- Providing the email domain
 [*] Naming Scheme for the Company 
     [0] Auto (hunter.io) 
     [1] FirstLast 
@@ -96,7 +96,7 @@ OR<br/>
 
 
 ```bash
-python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
+python LinkedinMama.py -k tesla -c 1234 -e tesla.com -n 0
 
   _      _____ _   _ _  ________ _____ _____ _   _ __  __          __  __           
  | |    |_   _| \ | | |/ /  ____|  __ \_   _| \ | |  \/  |   /\   |  \/  |   /\     
@@ -111,8 +111,8 @@ python LinkedinMama.py -k optiv -c 9291 -e optiv.com -n 0
 [*] Updated Scraper by @vysecurity
 [*] This Scraper by @bigb0ss
 
-[+] Creating Output File: optiv.csv
-[+] Using CompanyID: 9291
+[+] Creating Output File: tesla.csv
+[+] Using CompanyID: 1234
 [*] Hunter.io is doing the job for you
 [+] {first}.{last}
 [+] Found first.last Naming Scheme
