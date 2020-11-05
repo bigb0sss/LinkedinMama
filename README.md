@@ -1,7 +1,7 @@
 # LinkedinMama
 Linkedin intelligence to scrap employee profiles for further password guessing or phishing attacks.<br/>
 
->**UPDATE**: My buddy @h0useh3ad updated this to Python3. Thanks! - https://github.com/h0useh3ad/LinkedinMama3
+>**UPDATE**: My buddy @h0useh3ad updated this to Python3. Thanks! https://github.com/h0useh3ad/LinkedinMama3
 
 <br/>
 
